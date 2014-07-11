@@ -12,6 +12,8 @@
 
 @interface ViewController : UIViewController
 
+
+
 -(IBAction)startIndicator ;//ぐるぐるスタート
 -(IBAction)stopIndicator ;//ぐるぐるストップ
 
